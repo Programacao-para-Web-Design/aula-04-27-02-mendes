@@ -1,0 +1,43 @@
+<!DOCTYPE HTML>
+<html lang="pt-BR">
+	<head>
+		<meta charset="UTF-8">
+		<title> Aula 04 </title>
+	</head>
+	<body>
+		<div class="bloco1">
+		<h1> Bloco 1</h1>
+	<hr></hr>
+		<p> bloco 01</p>
+</div>
+
+	<div class="bloco2">
+		<h2> Bloco 2</h2>
+		<hr></hr>
+	<p> bloco 02</p>
+</div>
+
+		<div class="bloco3">
+		<h3> Bloco 3</h3>
+		<hr></hr>
+<p> bloco 03</p>
+</div>
+
+		<div class="bloco4">
+		<h4> Bloco 4</h4>
+		<hr></hr>
+		<pre> ola </pre>
+</div>
+		<div class="bloco5">
+	<h5> Bloco 5</h5>
+	<hr></hr>
+	<pre> Oi bom dia </pre>
+</div>
+
+		<div class="bloco6">
+		<h6> Bloco 6</h6>
+	<hr></hr>
+	<pre> BOA NOITE </pre>
+</div>
+</body>
+</html>
